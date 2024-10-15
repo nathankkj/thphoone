@@ -15,14 +15,14 @@ align-items: center;
 
 
 a {
-color: white;
+color: rgb(17, 184, 235);
 text-decoration: none;
 }
 header img {
 width: 150px;
 height: 150px;
 border-radius: 50%;
-border: 5px solid rgb(243, 0, 0);
+border: 5px solid rgb(34, 216, 18);
 
 }
 
@@ -31,7 +31,7 @@ text-align:center ;
 }
 
 h1 {
-color: rgb(9, 43, 233);
+color: rgb(233, 117, 9);
 }
 
 
