@@ -1,5 +1,5 @@
 {color:rgb(:where);
-    background-color: rgba(340, 340, 340, 0.027);
+    background-color: rgba(340, 340, 340, 0.021);
     font-family Arial, Helvetica, sans-serif;
     color:aliceblue
     }
