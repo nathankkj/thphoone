@@ -1,5 +1,5 @@
  body {
-    background-color: rgb(236, 18, 18);
+    background-color: rgb(187, 174, 174);
     font-family: Arial, Helvetica, sans-serif;
     color:aliceblue
     }
@@ -22,14 +22,14 @@
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    border: 5px solid rgb(30, 221, 30);
+    border: 5px solid rgb(27, 29, 27);
     }
     
     .center{
         text-align: center;
     }
     h1 {
-    color: rgb(218, 12, 12);
+    color: rgb(233, 214, 214);
     }
     
     
